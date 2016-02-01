@@ -1,0 +1,9 @@
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\NetflixCatalogue\NetflixCatalogueTests\bin\Debug\NetflixCatalogueTests.dll
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\NetflixCatalogue\NetflixCatalogueTests\bin\Debug\NetflixCatalogueTests.pdb
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\NetflixCatalogue\NetflixCatalogueTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\NetflixCatalogue\NetflixCatalogueTests\bin\Debug\NetflixCatalogue.exe
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\NetflixCatalogue\NetflixCatalogueTests\bin\Debug\NetflixCatalogue.pdb
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\NetflixCatalogue\NetflixCatalogueTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\NetflixCatalogue\NetflixCatalogueTests\obj\Debug\NetflixCatalogueTests.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\NetflixCatalogue\NetflixCatalogueTests\obj\Debug\NetflixCatalogueTests.dll
+C:\Users\Dan\Documents\Visual Studio 2015\Projects\NetflixCatalogue\NetflixCatalogueTests\obj\Debug\NetflixCatalogueTests.pdb
